@@ -14,4 +14,4 @@
     - [ ] Show how to create hyperlinks and insert images.  
 
 
-> Homework: Have students add text and images related to their hobbies or interests to their HTML document.
+> **Homework**: Have students add text and images related to their hobbies or interests to their HTML document.
