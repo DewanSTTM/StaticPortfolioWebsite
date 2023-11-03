@@ -6,7 +6,7 @@
     [ ] Discuss the basic HTML document created by students.
 
 2. Text and Formatting Elements (15 mins)  
-    [ ] Cover text-related elements: headings, paragraphs, lists, and emphasis (e.g\., <h1>, <p>, <ul>, <em>).  
+    [ ] Cover text-related elements: headings, paragraphs, lists, and emphasis (e.g., \<h1>, \<p>, \<ul>, \<em>).  
     [ ] Explain attributes (e.g., class, id).  
 
 3. Links and Images (15 mins  
