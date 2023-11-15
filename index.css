@@ -2,6 +2,39 @@ body{
     font-family: Arial, sans-serif;
 }
 
+.navbar {
+    background-color: rgb(2, 66, 2);
+    padding: 15px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: #fff;
+}
+
+.logo img {
+    width: 50px; /* Adjust the size as needed */
+}
+
+.nav-items {
+    list-style: none;
+    display: flex;
+}
+
+.nav-items li {
+    margin-right: 15px;
+}
+
+.nav-items a {
+    text-decoration: none;
+    color: #fff;
+}
+
+.nav-items a:hover {
+    border-bottom: 2px solid #fff;
+}
+
+
+
 .sectionheader{
     color: rgb(52, 165, 42);
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
