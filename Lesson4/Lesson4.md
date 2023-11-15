@@ -1,21 +1,44 @@
-# Lesson 3: How to Host your Website
-## *Objective* : To teach students about essential HTML elements.
+# Lesson 4: How Add animations to your Website
+## *Objective* : To teach students simple animations and more CSS designs
 ---------------------------------------------------------------------------------------------------------
 
 1. Ice Breaker + Greeting (5 minutes)   
    - [ ] Introduce yourself and what they will be learning this lesson
    - [ ] Pick an icebreaker from 3 choices to inntroduce and get the students talking to each other
-3. Review Homework (10 mins)  
-    - [ ] Discuss the basic HTML document created by students.
 
-4. Text and Formatting Elements (15 mins)  
-    - [ ] Cover text-related elements: headings, paragraphs, lists, and emphasis (e.g., \<h1>, \<p>, \<ul>, \<em>).  
-    - [ ] Explain attributes (e.g., class, id).  
+2. Review Homework (10 mins)  
+    - [ ] Review Flexbox, \<div>, and see if any student needs help
 
-5. Links and Images (15 mins)  
-    - [ ] Introduce anchor tags for creating links and image tags for embedding images.  
-    - [ ] Show how to create hyperlinks and insert images.  
+3. Add a fade-in animation (15 mins)  
+    - [ ] Show the code for the animation
+    - [ ] Break down the different parts of the code and why it makes a fade-in animation
+
+4. Add a slide animation (15 mins)  
+    - [ ] Show the code for the animation
+    - [ ] Break down the different parts of the code and why it makes a fade-in animation
+
+5. Add a color change animation (15 mins)  
+    - [ ] Show the code for the animation
+    - [ ] Break down the different parts of the code and why it makes a fade-in animation
+
+6. Discuss how to do a gradient change animation (15 mins)  
+    - [ ] Show the code for the animation
+    - [ ] Break down the different parts of the code and why it makes a fade-in animation
+
+7. Discuss how to do a pulse animation (15 mins)  
+    - [ ] Show the code for the animation
+    - [ ] Break down the different parts of the code and why it makes a fade-in animation
+
+8. Show how to decorate text and divs
+    - [ ] Add a shadow to the header texts and divs
+    - [ ] Add an underline using the   
+        ```CSS
+        {
+        text-decoration: underline;
+        }
+         ```
 
 
-> **Homework**: Have students add text and images related to their hobbies or interests to their HTML document.
+> **Homework**: Have students add animations and text decorations to their site
+
 *** Need to include resources and materials ***
