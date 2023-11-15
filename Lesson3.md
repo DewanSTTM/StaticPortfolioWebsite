@@ -1,4 +1,4 @@
-# Lesson 3: How to Host your Website
+# Lesson 5: How to Host your Website
 ## *Objective* : To teach students about essential HTML elements.
 ---------------------------------------------------------------------------------------------------------
 
